@@ -1,0 +1,8 @@
+BasedOnStyle: Microsoft
+IndentCaseLabels: true
+BreakBeforeBraces: Allman
+
+AlignAfterOpenBracket: DontAlign
+AllowAllArgumentsOnNextLine: false
+BinPackArguments: false
+ColumnLimit: 0

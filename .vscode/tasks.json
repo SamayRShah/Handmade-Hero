@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Handmade Hero (bat)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/build.bat",
+      "args": [],
+      "group": "build",
+      "problemMatcher": [],
+      "detail": "Runs the handmade hero build script"
+    }
+  ]
+}
